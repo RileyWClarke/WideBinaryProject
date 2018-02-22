@@ -1,5 +1,7 @@
 # Flare Activity of Wide Binary Stars with *Kepler*
 
+For the full scope of this project, please see Clarke et al. 2018: https://doi.org/10.3847/1538-4357/aaa0d3
+
 Widely separated binary stars represent a unique coeval laboratory in which to conduct age-activity-rotation studies. Here we present a comparison of relative flare activity between 58 previously identified wide binaries, showing that while most pairs display similar activity, some pairs (that we classify as 'outliers') do not. 
 
 ### Figure 3:
